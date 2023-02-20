@@ -1,0 +1,9 @@
+{
+	"name": "ADFmission100adebatch",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ed5d76c-b24d-4166-bf66-d791fa56f4e7",
+		"tenantId": "70350c54-bfc6-4f3a-a7b5-fb981f0d21ad"
+	}
+}
