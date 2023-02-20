@@ -1,0 +1,39 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "ADFmission100adebatch"
+		},
+		"ADLS_LS_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"Destination_connectionString": {
+			"value": ""
+		},
+		"Paraquetsource_accountKey": {
+			"value": ""
+		},
+		"Source_connectionString": {
+			"value": ""
+		},
+		"ADLS_LS_properties_typeProperties_url": {
+			"value": "https://storageade12.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://mission100adebactch3stg.dfs.core.windows.net/"
+		},
+		"Paraquetsource_properties_typeProperties_url": {
+			"value": "https://storageade12.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
